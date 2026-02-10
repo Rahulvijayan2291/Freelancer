@@ -239,8 +239,8 @@ const data = {
   resumeLink: "https://drive.google.com/file/d/1SxNjfbNdtwOx357TGzRHLU-3ixVuHyWU/view?usp=sharing",
 
   // Replace these with your actual image paths
-  heroImage: "../src/assets/Gemini_Generated_Image_9h7cfg9h7cfg9h7c (1).png",
-  aboutImage: "../src/assets/Gemini_Generated_Image_otn0qpotn0qpotn0.png",
+  heroImage: "/Gemini_Generated_Image_9h7cfg9h7cfg9h7c (1).png",
+  aboutImage: "/Gemini_Generated_Image_otn0qpotn0qpotn0.png",
   summary: "Results-driven Supplier Quality Engineer with over 2.5+ years of experience in the Medical Device industry. Expert in executing PPAP reviews, managing Approved Supplier Lists (ASL), and driving CAPA/NCR closures. Proficient in ISO 13485 and ISO 9001 compliance, utilizing data-driven tools like Agile PLM and Minitab to enhance supplier performance.",
   experience: [
     {
